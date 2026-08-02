@@ -21,6 +21,7 @@ public class largestNumber{
                
             }
              System.out.print(max);
+        }
         
          
     }
